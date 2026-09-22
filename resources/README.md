@@ -17,3 +17,7 @@ for deployment operations, use its
 Versioned Microsoft Learn links retain the .NET 10 view used by the original
 collection. Select the documentation version that matches the project you are
 working on. A linked topic does not imply that a project implements that feature.
+
+These pages were moved from the
+[application repository](https://github.com/OpenGameBuilder/opengamebuilder/tree/e164922c19213ae1ca2936554cca3970269cfac6/docs/resources)
+and retain its [Apache License 2.0](LICENSE).
